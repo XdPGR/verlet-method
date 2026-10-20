@@ -1,0 +1,14 @@
+*.o
+a.out
+build/
+*.exe
+.vscode/
+*.o
+*.out
+build/
+.vscode/
+sim_gas
+sim_gas_regular
+sim_liquid
+sim_liquid_large
+sim_solid
